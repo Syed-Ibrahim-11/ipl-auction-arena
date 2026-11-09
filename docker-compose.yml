@@ -1,0 +1,31 @@
+services:
+  arena:
+    build: .
+    restart: unless-stopped
+    env_file:
+      - .env.local
+    environment:
+      IPL_DB_PATH: /data/ipl-arena.db
+    volumes:
+      - arena-data:/data
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      SITE_ADDRESS: ${SITE_ADDRESS:-:80}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      - arena
+
+volumes:
+  arena-data:
+  caddy-data:
+  caddy-config:

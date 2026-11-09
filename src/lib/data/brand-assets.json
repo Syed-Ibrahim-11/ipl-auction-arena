@@ -1,0 +1,2463 @@
+{
+  "generatedAt": "2026-11-07T06:27:10.278Z",
+  "source": "https://www.iplt20.com/teams",
+  "note": "Crests, squad portraits and jersey numbers are read from the official IPL team pages and stored locally with attribution. They remain the property of their respective owners.",
+  "teams": {
+    "chennai-super-kings": {
+      "name": "Chennai Super Kings",
+      "externalId": 1622,
+      "logo": "/brand/teams/chennai-super-kings.svg",
+      "logoDark": "/brand/teams/chennai-super-kings-dark.svg",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings"
+    },
+    "mumbai-indians": {
+      "name": "Mumbai Indians",
+      "externalId": 1854,
+      "logo": "/brand/teams/mumbai-indians.svg",
+      "logoDark": "/brand/teams/mumbai-indians-dark.svg",
+      "source": "https://www.iplt20.com/teams/mumbai-indians"
+    },
+    "royal-challengers-bengaluru": {
+      "name": "Royal Challengers Bengaluru",
+      "externalId": 2138,
+      "logo": "/brand/teams/royal-challengers-bengaluru.svg",
+      "logoDark": "/brand/teams/royal-challengers-bengaluru-dark.svg",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru"
+    },
+    "kolkata-knight-riders": {
+      "name": "Kolkata Knight Riders",
+      "externalId": 1873,
+      "logo": "/brand/teams/kolkata-knight-riders.svg",
+      "logoDark": "/brand/teams/kolkata-knight-riders-dark.svg",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders"
+    },
+    "sunrisers-hyderabad": {
+      "name": "Sunrisers Hyderabad",
+      "externalId": 1153,
+      "logo": "/brand/teams/sunrisers-hyderabad.svg",
+      "logoDark": "/brand/teams/sunrisers-hyderabad-dark.svg",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad"
+    },
+    "delhi-capitals": {
+      "name": "Delhi Capitals",
+      "externalId": 1396,
+      "logo": "/brand/teams/delhi-capitals.svg",
+      "logoDark": "/brand/teams/delhi-capitals-dark.svg",
+      "source": "https://www.iplt20.com/teams/delhi-capitals"
+    },
+    "rajasthan-royals": {
+      "name": "Rajasthan Royals",
+      "externalId": 1558,
+      "logo": "/brand/teams/rajasthan-royals.svg",
+      "logoDark": "/brand/teams/rajasthan-royals-dark.svg",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals"
+    },
+    "punjab-kings": {
+      "name": "Punjab Kings",
+      "externalId": 2040,
+      "logo": "/brand/teams/punjab-kings.svg",
+      "logoDark": "/brand/teams/punjab-kings-dark.svg",
+      "source": "https://www.iplt20.com/teams/punjab-kings"
+    },
+    "gujarat-titans": {
+      "name": "Gujarat Titans",
+      "externalId": 2879,
+      "logo": "/brand/teams/gujarat-titans.svg",
+      "logoDark": "/brand/teams/gujarat-titans-dark.svg",
+      "source": "https://www.iplt20.com/teams/gujarat-titans"
+    },
+    "lucknow-super-giants": {
+      "name": "Lucknow Super Giants",
+      "externalId": 2880,
+      "logo": "/brand/teams/lucknow-super-giants.svg",
+      "logoDark": "/brand/teams/lucknow-super-giants-dark.svg",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants"
+    }
+  },
+  "players": {
+    "11061889": {
+      "photo": "/brand/players/11061889.webp",
+      "jersey": "33",
+      "officialName": "Saurabh Dubey",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "12314277": {
+      "photo": "/brand/players/12314277.webp",
+      "jersey": "20",
+      "officialName": "Arshad Khan",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "25228673": {
+      "photo": "/brand/players/25228673.webp",
+      "jersey": "7",
+      "officialName": "Harsh Dubey",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "36619795": {
+      "photo": "/brand/players/36619795.webp",
+      "jersey": "27",
+      "officialName": "Zeeshan Ansari",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "81049310": {
+      "photo": "/brand/players/81049310.webp",
+      "jersey": "16",
+      "officialName": "Jayant Yadav",
+      "teamId": "gujarat-titans",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "99258814": {
+      "photo": "/brand/players/99258814.webp",
+      "jersey": null,
+      "officialName": "Gurnoor Brar",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "a2f46292": {
+      "photo": "/brand/players/a2f46292.webp",
+      "jersey": "71",
+      "officialName": "Khaleel Ahmed",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "844e79d1": {
+      "photo": "/brand/players/844e79d1.webp",
+      "jersey": "12",
+      "officialName": "Dewald Brevis",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "2ed569a0": {
+      "photo": "/brand/players/2ed569a0.webp",
+      "jersey": "17",
+      "officialName": "Rahul Chahar",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "765a4731": {
+      "photo": "/brand/players/765a4731.webp",
+      "jersey": "90",
+      "officialName": "Mukesh Choudhary",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "4a8a2e3b": {
+      "photo": "/brand/players/4a8a2e3b.webp",
+      "jersey": "7",
+      "officialName": "Mahendra Singh Dhoni",
+      "teamId": "chennai-super-kings",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "a4e37e47": {
+      "photo": "/brand/players/a4e37e47.webp",
+      "jersey": "25",
+      "officialName": "Shivam Dube",
+      "teamId": "chennai-super-kings",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "9eb1455b": {
+      "photo": "/brand/players/9eb1455b.png",
+      "jersey": "72",
+      "officialName": "Nathan Ellis",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "auc-zak-foulkes": {
+      "photo": "/brand/players/auc-zak-foulkes.webp",
+      "jersey": "35",
+      "officialName": "Zak Foulkes",
+      "teamId": "chennai-super-kings",
+      "role": "allrounder",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "45a43fe2": {
+      "photo": "/brand/players/45a43fe2.webp",
+      "jersey": "31",
+      "officialName": "Ruturaj Gaikwad",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "dee07622": {
+      "photo": "/brand/players/dee07622.webp",
+      "jersey": "1",
+      "officialName": "Ramakrishna Ghosh",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "7a8bd078": {
+      "photo": "/brand/players/7a8bd078.webp",
+      "jersey": "19",
+      "officialName": "Shreyas Gopal",
+      "teamId": "chennai-super-kings",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "e84ac20c": {
+      "photo": "/brand/players/e84ac20c.webp",
+      "jersey": "24",
+      "officialName": "Matt Henry",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "4d7f517e": {
+      "photo": "/brand/players/4d7f517e.webp",
+      "jersey": "7",
+      "officialName": "Akeal Hosein",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "83c3e8e3": {
+      "photo": "/brand/players/83c3e8e3.webp",
+      "jersey": "45",
+      "officialName": "Spencer Johnson",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "fcc21ace": {
+      "photo": "/brand/players/fcc21ace.webp",
+      "jersey": "47",
+      "officialName": "Anshul Kamboj",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "378daa89": {
+      "photo": "/brand/players/378daa89.webp",
+      "jersey": "23",
+      "officialName": "Aman Khan",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "f088b960": {
+      "photo": "/brand/players/f088b960.webp",
+      "jersey": "97",
+      "officialName": "Sarfaraz Khan",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "4bd09374": {
+      "photo": "/brand/players/4bd09374.webp",
+      "jersey": "47",
+      "officialName": "Akash Madhwal",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "b2b4f545": {
+      "photo": "/brand/players/b2b4f545.webp",
+      "jersey": "56",
+      "officialName": "Ayush Mhatre",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "efc04be7": {
+      "photo": "/brand/players/efc04be7.webp",
+      "jersey": "15",
+      "officialName": "Noor Ahmad",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "Afghanistan",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "59559bc2": {
+      "photo": "/brand/players/59559bc2.webp",
+      "jersey": "88",
+      "officialName": "Jamie Overton",
+      "teamId": "chennai-super-kings",
+      "role": "allrounder",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "cf59b3f0": {
+      "photo": "/brand/players/cf59b3f0.webp",
+      "jersey": "37",
+      "officialName": "Urvil Patel",
+      "teamId": "chennai-super-kings",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "a4cc73aa": {
+      "photo": "/brand/players/a4cc73aa.webp",
+      "jersey": "11",
+      "officialName": "Sanju Samson",
+      "teamId": "chennai-super-kings",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "7b679de5": {
+      "photo": "/brand/players/7b679de5.webp",
+      "jersey": "26",
+      "officialName": "Kartik Sharma",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "a90e53ec": {
+      "photo": "/brand/players/a90e53ec.webp",
+      "jersey": "2",
+      "officialName": "Matt Short",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "cc61ee8f": {
+      "photo": "/brand/players/cc61ee8f.webp",
+      "jersey": "9",
+      "officialName": "Gurjapneet Singh",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "e148e6bd": {
+      "photo": "/brand/players/e148e6bd.webp",
+      "jersey": "13",
+      "officialName": "Prashant Veer",
+      "teamId": "chennai-super-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "030f3089": {
+      "photo": "/brand/players/030f3089.png",
+      "jersey": "10",
+      "officialName": "Kuldip Yadav",
+      "teamId": "chennai-super-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad"
+    },
+    "d6cd318e": {
+      "photo": "/brand/players/d6cd318e.webp",
+      "jersey": "96",
+      "officialName": "Atharva Ankolekar",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "ba6b2f91": {
+      "photo": "/brand/players/ba6b2f91.webp",
+      "jersey": "12",
+      "officialName": "Raj Bawa",
+      "teamId": "mumbai-indians",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "e48a4814": {
+      "photo": "/brand/players/e48a4814.webp",
+      "jersey": "6",
+      "officialName": "Krish Bhagat",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "172dff15": {
+      "photo": "/brand/players/172dff15.webp",
+      "jersey": "37",
+      "officialName": "Corbin Bosch",
+      "teamId": "mumbai-indians",
+      "role": "allrounder",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "a818c1be": {
+      "photo": "/brand/players/a818c1be.webp",
+      "jersey": "18",
+      "officialName": "Trent Boult",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "462411b3": {
+      "photo": "/brand/players/462411b3.webp",
+      "jersey": "93",
+      "officialName": "Jasprit Bumrah",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "23eeb873": {
+      "photo": "/brand/players/23eeb873.webp",
+      "jersey": "56",
+      "officialName": "Deepak Chahar",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "372455c4": {
+      "photo": "/brand/players/372455c4.webp",
+      "jersey": "13",
+      "officialName": "Quinton de Kock",
+      "teamId": "mumbai-indians",
+      "role": "wicketkeeper",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "fffa744b": {
+      "photo": "/brand/players/fffa744b.webp",
+      "jersey": "19",
+      "officialName": "Naman Dhir",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "9ca68676": {
+      "photo": "/brand/players/9ca68676.webp",
+      "jersey": "70",
+      "officialName": "AM Ghazanfar",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "Afghanistan",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "auc-mohammad-izhar": {
+      "photo": "/brand/players/auc-mohammad-izhar.webp",
+      "jersey": null,
+      "officialName": "Mohammed Izhar",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "9caf69a1": {
+      "photo": "/brand/players/9caf69a1.webp",
+      "jersey": "22",
+      "officialName": "Will Jacks",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "d45c29b1": {
+      "photo": "/brand/players/d45c29b1.webp",
+      "jersey": "42",
+      "officialName": "Ashwani Kumar",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "da934ee8": {
+      "photo": "/brand/players/da934ee8.png",
+      "jersey": "6",
+      "officialName": "Mahipal Lomror",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "0b60eb09": {
+      "photo": "/brand/players/0b60eb09.png",
+      "jersey": "25",
+      "officialName": "Keshav Maharaj",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "9e6032fa": {
+      "photo": "/brand/players/9e6032fa.webp",
+      "jersey": null,
+      "officialName": "Danish Malewar",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "a9fd84fb": {
+      "photo": "/brand/players/a9fd84fb.webp",
+      "jersey": "11",
+      "officialName": "Mayank Markande",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "bafd0398": {
+      "photo": "/brand/players/bafd0398.webp",
+      "jersey": "13",
+      "officialName": "Robin Minz",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "dbe50b21": {
+      "photo": "/brand/players/dbe50b21.webp",
+      "jersey": "33",
+      "officialName": "Hardik Pandya",
+      "teamId": "mumbai-indians",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "2b801189": {
+      "photo": "/brand/players/2b801189.webp",
+      "jersey": "66",
+      "officialName": "Mayank Rawat",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "e66732f8": {
+      "photo": "/brand/players/e66732f8.webp",
+      "jersey": "44",
+      "officialName": "Ryan Rickelton",
+      "teamId": "mumbai-indians",
+      "role": "wicketkeeper",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "d014d5ac": {
+      "photo": "/brand/players/d014d5ac.webp",
+      "jersey": "68",
+      "officialName": "Sherfane Rutherford",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "e4a0deae": {
+      "photo": "/brand/players/e4a0deae.webp",
+      "jersey": "74",
+      "officialName": "Mitch Santner",
+      "teamId": "mumbai-indians",
+      "role": "allrounder",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "740742ef": {
+      "photo": "/brand/players/740742ef.webp",
+      "jersey": "45",
+      "officialName": "Rohit Sharma",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "5b615e7c": {
+      "photo": "/brand/players/5b615e7c.webp",
+      "jersey": "23",
+      "officialName": "Raghu Sharma",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "1abb78f8": {
+      "photo": "/brand/players/1abb78f8.webp",
+      "jersey": "54",
+      "officialName": "Shardul Thakur",
+      "teamId": "mumbai-indians",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "b0482a1d": {
+      "photo": "/brand/players/b0482a1d.webp",
+      "jersey": "9",
+      "officialName": "Tilak Varma",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "271f83cd": {
+      "photo": "/brand/players/271f83cd.webp",
+      "jersey": "63",
+      "officialName": "Suryakumar Yadav",
+      "teamId": "mumbai-indians",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/mumbai-indians/squad"
+    },
+    "3c55c703": {
+      "photo": "/brand/players/3c55c703.webp",
+      "jersey": "2",
+      "officialName": "Jacob Bethell",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "auc-kanishk-chouhan": {
+      "photo": "/brand/players/auc-kanishk-chouhan.webp",
+      "jersey": null,
+      "officialName": "Kanishk Chouhan",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "ff154ecd": {
+      "photo": "/brand/players/ff154ecd.webp",
+      "jersey": "22",
+      "officialName": "Jordan Cox",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "7c3c0337": {
+      "photo": "/brand/players/7c3c0337.webp",
+      "jersey": "42",
+      "officialName": "Rasikh Dar",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "f1f99156": {
+      "photo": "/brand/players/f1f99156.webp",
+      "jersey": "8",
+      "officialName": "Tim David",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "7210d461": {
+      "photo": "/brand/players/7210d461.webp",
+      "jersey": "103",
+      "officialName": "Yash Dayal",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "auc-satvik-deswal": {
+      "photo": "/brand/players/auc-satvik-deswal.webp",
+      "jersey": null,
+      "officialName": "Satvik Deswal",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "dadbdb68": {
+      "photo": "/brand/players/dadbdb68.webp",
+      "jersey": "27",
+      "officialName": "Jacob Duffy",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "402f8494": {
+      "photo": "/brand/players/402f8494.png",
+      "jersey": "11",
+      "officialName": "Richard Gleeson",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "03806cf8": {
+      "photo": "/brand/players/03806cf8.webp",
+      "jersey": "38",
+      "officialName": "Josh Hazlewood",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "a24be938": {
+      "photo": "/brand/players/a24be938.webp",
+      "jersey": "25",
+      "officialName": "Venkatesh Iyer",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "ba607b88": {
+      "photo": "/brand/players/ba607b88.webp",
+      "jersey": "18",
+      "officialName": "Virat Kohli",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "2e81a32d": {
+      "photo": "/brand/players/2e81a32d.webp",
+      "jersey": "15",
+      "officialName": "Bhuvneshwar Kumar",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "auc-vihaan-malhotra": {
+      "photo": "/brand/players/auc-vihaan-malhotra.webp",
+      "jersey": null,
+      "officialName": "Vihaan Malhotra",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "auc-vicky-ostwal": {
+      "photo": "/brand/players/auc-vicky-ostwal.webp",
+      "jersey": null,
+      "officialName": "Vicky Ostwal",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "2c25d4f5": {
+      "photo": "/brand/players/2c25d4f5.webp",
+      "jersey": "37",
+      "officialName": "Devdutt Padikkal",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "5b8c830e": {
+      "photo": "/brand/players/5b8c830e.webp",
+      "jersey": "6",
+      "officialName": "Krunal Pandya",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "c740ea83": {
+      "photo": "/brand/players/c740ea83.webp",
+      "jersey": "97",
+      "officialName": "Rajat Patidar",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "3d284ca3": {
+      "photo": "/brand/players/3d284ca3.webp",
+      "jersey": "28",
+      "officialName": "Phil Salt",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "800d2d97": {
+      "photo": "/brand/players/800d2d97.webp",
+      "jersey": "55",
+      "officialName": "Jitesh Sharma",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "9440ef41": {
+      "photo": "/brand/players/9440ef41.webp",
+      "jersey": "5",
+      "officialName": "Suyash Sharma",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "c5aef772": {
+      "photo": "/brand/players/c5aef772.webp",
+      "jersey": "16",
+      "officialName": "Romario Shepherd",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "allrounder",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "82c10dac": {
+      "photo": "/brand/players/82c10dac.webp",
+      "jersey": "14",
+      "officialName": "Abhinandan Singh",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "983f2f61": {
+      "photo": "/brand/players/983f2f61.webp",
+      "jersey": "24",
+      "officialName": "Swapnil Singh",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "ee1b6c27": {
+      "photo": "/brand/players/ee1b6c27.webp",
+      "jersey": "53",
+      "officialName": "Nuwan Thushara",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "auc-mangesh-yadav": {
+      "photo": "/brand/players/auc-mangesh-yadav.webp",
+      "jersey": null,
+      "officialName": "Mangesh Yadav",
+      "teamId": "royal-challengers-bengaluru",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/royal-challengers-bengaluru/squad"
+    },
+    "bf74b130": {
+      "photo": "/brand/players/bf74b130.webp",
+      "jersey": "16",
+      "officialName": "Finn Allen",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "7c3b3b78": {
+      "photo": "/brand/players/7c3b3b78.webp",
+      "jersey": "14",
+      "officialName": "Vaibhav Arora",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "5b7ab5a9": {
+      "photo": "/brand/players/5b7ab5a9.webp",
+      "jersey": "29",
+      "officialName": "Varun Chakaravarthy",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "f12fe2a1": {
+      "photo": "/brand/players/f12fe2a1.webp",
+      "jersey": "21",
+      "officialName": "Tejasvi Dahiya",
+      "teamId": "kolkata-knight-riders",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "0a67aec0": {
+      "photo": "/brand/players/0a67aec0.png",
+      "jersey": "11",
+      "officialName": "Akash Deep",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "eaa76d3c": {
+      "photo": "/brand/players/eaa76d3c.webp",
+      "jersey": "42",
+      "officialName": "Cameron Green",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "auc-daksh-kamra": {
+      "photo": "/brand/players/auc-daksh-kamra.webp",
+      "jersey": "63",
+      "officialName": "Daksh Kamra",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "0a8fce53": {
+      "photo": "/brand/players/0a8fce53.png",
+      "jersey": "90",
+      "officialName": "Mustafizur Rahman",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "Bangladesh",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "449f4e3c": {
+      "photo": "/brand/players/449f4e3c.webp",
+      "jersey": "40",
+      "officialName": "Blessing Muzarabani",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "Zimbabwe",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "9d430b40": {
+      "photo": "/brand/players/9d430b40.webp",
+      "jersey": "74",
+      "officialName": "Sunil Narine",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "93b4fc78": {
+      "photo": "/brand/players/93b4fc78.webp",
+      "jersey": "9",
+      "officialName": "Manish Pandey",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "64839cb3": {
+      "photo": "/brand/players/64839cb3.webp",
+      "jersey": "81",
+      "officialName": "Matheesha Pathirana",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "650d5e49": {
+      "photo": "/brand/players/650d5e49.webp",
+      "jersey": "52",
+      "officialName": "Rovman Powell",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "d7017798": {
+      "photo": "/brand/players/d7017798.webp",
+      "jersey": "18",
+      "officialName": "Angkrish Raghuvanshi",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "29e95537": {
+      "photo": "/brand/players/29e95537.webp",
+      "jersey": "3",
+      "officialName": "Ajinkya Rahane",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "be24ead0": {
+      "photo": "/brand/players/be24ead0.webp",
+      "jersey": "19",
+      "officialName": "Ramandeep Singh",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "77b1aa15": {
+      "photo": "/brand/players/77b1aa15.png",
+      "jersey": "22",
+      "officialName": "Harshit Rana",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "d7cdefa9": {
+      "photo": "/brand/players/d7cdefa9.webp",
+      "jersey": "4",
+      "officialName": "Sarthak Ranjan",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "ba5e1069": {
+      "photo": "/brand/players/ba5e1069.webp",
+      "jersey": "17",
+      "officialName": "Rachin Ravindra",
+      "teamId": "kolkata-knight-riders",
+      "role": "allrounder",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "e4cdf230": {
+      "photo": "/brand/players/e4cdf230.webp",
+      "jersey": "45",
+      "officialName": "Anukul Roy",
+      "teamId": "kolkata-knight-riders",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "21d4e29b": {
+      "photo": "/brand/players/21d4e29b.webp",
+      "jersey": "23",
+      "officialName": "Navdeep Saini",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "4663bd23": {
+      "photo": "/brand/players/4663bd23.webp",
+      "jersey": "43",
+      "officialName": "Tim Seifert",
+      "teamId": "kolkata-knight-riders",
+      "role": "wicketkeeper",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "0a509d6b": {
+      "photo": "/brand/players/0a509d6b.webp",
+      "jersey": "35",
+      "officialName": "Rinku Singh",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "c695b423": {
+      "photo": "/brand/players/c695b423.webp",
+      "jersey": "46",
+      "officialName": "Prashant Solanki",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "77255a9e": {
+      "photo": "/brand/players/77255a9e.webp",
+      "jersey": "52",
+      "officialName": "Rahul Tripathi",
+      "teamId": "kolkata-knight-riders",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "5d2eea49": {
+      "photo": "/brand/players/5d2eea49.webp",
+      "jersey": "26",
+      "officialName": "Kartik Tyagi",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "81c08fa3": {
+      "photo": "/brand/players/81c08fa3.webp",
+      "jersey": "24",
+      "officialName": "Umran Malik",
+      "teamId": "kolkata-knight-riders",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad"
+    },
+    "d7423da1": {
+      "photo": "/brand/players/d7423da1.webp",
+      "jersey": "12",
+      "officialName": "Salil Arora",
+      "teamId": "sunrisers-hyderabad",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "3204c99f": {
+      "photo": "/brand/players/3204c99f.webp",
+      "jersey": "62",
+      "officialName": "Gerald Coetzee",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "ded9240e": {
+      "photo": "/brand/players/ded9240e.webp",
+      "jersey": "30",
+      "officialName": "Pat Cummins",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "5750bcb4": {
+      "photo": "/brand/players/5750bcb4.webp",
+      "jersey": "97",
+      "officialName": "Eshan Malinga",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "f787e0eb": {
+      "photo": "/brand/players/f787e0eb.png",
+      "jersey": null,
+      "officialName": "Jack Edwards",
+      "teamId": "sunrisers-hyderabad",
+      "role": "allrounder",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "auc-krains-fuletra": {
+      "photo": "/brand/players/auc-krains-fuletra.webp",
+      "jersey": "37",
+      "officialName": "Krains Fuletra",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "12b610c2": {
+      "photo": "/brand/players/12b610c2.webp",
+      "jersey": "62",
+      "officialName": "Travis Head",
+      "teamId": "sunrisers-hyderabad",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "ece7b6b3": {
+      "photo": "/brand/players/ece7b6b3.webp",
+      "jersey": "18",
+      "officialName": "Praful Hinge",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "752f7486": {
+      "photo": "/brand/players/752f7486.webp",
+      "jersey": "23",
+      "officialName": "Ishan Kishan",
+      "teamId": "sunrisers-hyderabad",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "235c2bb6": {
+      "photo": "/brand/players/235c2bb6.webp",
+      "jersey": "45",
+      "officialName": "Heinrich Klaasen",
+      "teamId": "sunrisers-hyderabad",
+      "role": "wicketkeeper",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "e3e9f70a": {
+      "photo": "/brand/players/e3e9f70a.webp",
+      "jersey": "77",
+      "officialName": "Amit Kumar",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "7b44eb3e": {
+      "photo": "/brand/players/7b44eb3e.webp",
+      "jersey": "67",
+      "officialName": "Shivang Kumar",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "50c6bc2b": {
+      "photo": "/brand/players/50c6bc2b.webp",
+      "jersey": "23",
+      "officialName": "Liam Livingstone",
+      "teamId": "sunrisers-hyderabad",
+      "role": "batsman",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "de7d833e": {
+      "photo": "/brand/players/de7d833e.webp",
+      "jersey": "98",
+      "officialName": "Dilshan Madushanka",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "c38d3503": {
+      "photo": "/brand/players/c38d3503.webp",
+      "jersey": "26",
+      "officialName": "Shivam Mavi",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "08548b13": {
+      "photo": "/brand/players/08548b13.webp",
+      "jersey": "21",
+      "officialName": "Kamindu Mendis",
+      "teamId": "sunrisers-hyderabad",
+      "role": "batsman",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "aad0c365": {
+      "photo": "/brand/players/aad0c365.webp",
+      "jersey": "88",
+      "officialName": "Nitish Kumar Reddy",
+      "teamId": "sunrisers-hyderabad",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "f986ca1a": {
+      "photo": "/brand/players/f986ca1a.webp",
+      "jersey": "16",
+      "officialName": "Harshal Patel",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "6c79c098": {
+      "photo": "/brand/players/6c79c098.webp",
+      "jersey": null,
+      "officialName": "David Payne",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "280fff14": {
+      "photo": "/brand/players/280fff14.webp",
+      "jersey": "57",
+      "officialName": "Sakib Hussain",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "f29185a1": {
+      "photo": "/brand/players/f29185a1.webp",
+      "jersey": "4",
+      "officialName": "Abhishek Sharma",
+      "teamId": "sunrisers-hyderabad",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "c1e53c3f": {
+      "photo": "/brand/players/c1e53c3f.webp",
+      "jersey": "10",
+      "officialName": "Ravichandran Smaran",
+      "teamId": "sunrisers-hyderabad",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "auc-onkar-tarmale": {
+      "photo": "/brand/players/auc-onkar-tarmale.webp",
+      "jersey": "93",
+      "officialName": "Onkar Tarmale",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "1e66c162": {
+      "photo": "/brand/players/1e66c162.webp",
+      "jersey": "91",
+      "officialName": "Jaydev Unadkat",
+      "teamId": "sunrisers-hyderabad",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "a3b0600d": {
+      "photo": "/brand/players/a3b0600d.webp",
+      "jersey": "108",
+      "officialName": "Aniket Verma",
+      "teamId": "sunrisers-hyderabad",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/sunrisers-hyderabad/squad"
+    },
+    "327b58d3": {
+      "photo": "/brand/players/327b58d3.webp",
+      "jersey": "79",
+      "officialName": "Dushmantha Chameera",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "auc-ben-duckett": {
+      "photo": "/brand/players/auc-ben-duckett.png",
+      "jersey": null,
+      "officialName": "Ben Duckett",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "68c56d09": {
+      "photo": "/brand/players/68c56d09.webp",
+      "jersey": "12",
+      "officialName": "Kyle Jamieson",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "2cffab74": {
+      "photo": "/brand/players/2cffab74.webp",
+      "jersey": "49",
+      "officialName": "Mukesh Kumar",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "d67d5f00": {
+      "photo": "/brand/players/d67d5f00.webp",
+      "jersey": "10",
+      "officialName": "David Miller",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "944533a5": {
+      "photo": "/brand/players/944533a5.webp",
+      "jersey": "69",
+      "officialName": "Karun Nair",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "ce794613": {
+      "photo": "/brand/players/ce794613.webp",
+      "jersey": "44",
+      "officialName": "Thangarasu Natarajan",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "f834dcfc": {
+      "photo": "/brand/players/f834dcfc.webp",
+      "jersey": "22",
+      "officialName": "Lungi Ngidi",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "5ffc0565": {
+      "photo": "/brand/players/5ffc0565.webp",
+      "jersey": "28",
+      "officialName": "Vipraj Nigam",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "926c7443": {
+      "photo": "/brand/players/926c7443.webp",
+      "jersey": null,
+      "officialName": "Sahil Parakh",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "2e171977": {
+      "photo": "/brand/players/2e171977.webp",
+      "jersey": "20",
+      "officialName": "Axar Patel",
+      "teamId": "delhi-capitals",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "ad3b6e95": {
+      "photo": "/brand/players/ad3b6e95.webp",
+      "jersey": "24",
+      "officialName": "Abishek Porel",
+      "teamId": "delhi-capitals",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "b17e2f24": {
+      "photo": "/brand/players/b17e2f24.webp",
+      "jersey": "1",
+      "officialName": "KL Rahul",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "fb2d1dda": {
+      "photo": "/brand/players/fb2d1dda.webp",
+      "jersey": "36",
+      "officialName": "Nitish Rana",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "f89d3b11": {
+      "photo": "/brand/players/f89d3b11.webp",
+      "jersey": "7",
+      "officialName": "Sameer Rizvi",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "84d9c311": {
+      "photo": "/brand/players/84d9c311.webp",
+      "jersey": "77",
+      "officialName": "Ashutosh Sharma",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "8b3e9c7c": {
+      "photo": "/brand/players/8b3e9c7c.webp",
+      "jersey": "100",
+      "officialName": "Prithvi Shaw",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "8ee36b18": {
+      "photo": "/brand/players/8ee36b18.webp",
+      "jersey": "18",
+      "officialName": "Pathum Nissanka",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "3fb19989": {
+      "photo": "/brand/players/3fb19989.webp",
+      "jersey": "56",
+      "officialName": "Mitchell Starc",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "85b3fab2": {
+      "photo": "/brand/players/85b3fab2.webp",
+      "jersey": "30",
+      "officialName": "Tristan Stubbs",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "fb5f69e4": {
+      "photo": "/brand/players/fb5f69e4.webp",
+      "jersey": null,
+      "officialName": "Madhav Tiwari",
+      "teamId": "delhi-capitals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "51ec3919": {
+      "photo": "/brand/players/51ec3919.webp",
+      "jersey": "50",
+      "officialName": "Tripurana Vijay",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "8d2c70ad": {
+      "photo": "/brand/players/8d2c70ad.webp",
+      "jersey": "23",
+      "officialName": "Kuldeep Yadav",
+      "teamId": "delhi-capitals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/delhi-capitals/squad"
+    },
+    "5574750c": {
+      "photo": "/brand/players/5574750c.webp",
+      "jersey": "22",
+      "officialName": "Jofra Archer",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "df064e1a": {
+      "photo": "/brand/players/df064e1a.webp",
+      "jersey": "56",
+      "officialName": "Ravi Bishnoi",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "465aa633": {
+      "photo": "/brand/players/465aa633.webp",
+      "jersey": "17",
+      "officialName": "Nandre Burger",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "57ee1fde": {
+      "photo": "/brand/players/57ee1fde.png",
+      "jersey": null,
+      "officialName": "Emanjot Singh Chahal",
+      "teamId": "rajasthan-royals",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "e94915e6": {
+      "photo": "/brand/players/e94915e6.png",
+      "jersey": "58",
+      "officialName": "Sam Curran",
+      "teamId": "rajasthan-royals",
+      "role": "allrounder",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "04a418e8": {
+      "photo": "/brand/players/04a418e8.webp",
+      "jersey": "5",
+      "officialName": "Riyan Parag",
+      "teamId": "rajasthan-royals",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "46a9bea1": {
+      "photo": "/brand/players/46a9bea1.webp",
+      "jersey": "24",
+      "officialName": "Tushar Deshpande",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "6b2ff18f": {
+      "photo": "/brand/players/6b2ff18f.webp",
+      "jersey": "27",
+      "officialName": "Shubham Dubey",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "f0af99a7": {
+      "photo": "/brand/players/f0af99a7.webp",
+      "jersey": "2",
+      "officialName": "Donovan Ferreira",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "48a1d7b7": {
+      "photo": "/brand/players/48a1d7b7.webp",
+      "jersey": "189",
+      "officialName": "Shimron Hetmyer",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "fe93fd9d": {
+      "photo": "/brand/players/fe93fd9d.webp",
+      "jersey": "8",
+      "officialName": "Ravindra Jadeja",
+      "teamId": "rajasthan-royals",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "6c19c6e5": {
+      "photo": "/brand/players/6c19c6e5.webp",
+      "jersey": "64",
+      "officialName": "Yashasvi Jaiswal",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "bcf325d2": {
+      "photo": "/brand/players/bcf325d2.webp",
+      "jersey": "21",
+      "officialName": "Dhruv Jurel",
+      "teamId": "rajasthan-royals",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "107c26fb": {
+      "photo": "/brand/players/107c26fb.webp",
+      "jersey": "11",
+      "officialName": "Kwena Maphaka",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "350bb1b1": {
+      "photo": "/brand/players/350bb1b1.webp",
+      "jersey": "23",
+      "officialName": "Adam Milne",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "92500ad5": {
+      "photo": "/brand/players/92500ad5.webp",
+      "jersey": "51",
+      "officialName": "Sushant Mishra",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "60aa2db3": {
+      "photo": "/brand/players/60aa2db3.webp",
+      "jersey": "6",
+      "officialName": "Lhuan-dré Pretorius",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "02dfebbe": {
+      "photo": "/brand/players/02dfebbe.webp",
+      "jersey": "14",
+      "officialName": "Yash Punja",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "1e030637": {
+      "photo": "/brand/players/1e030637.webp",
+      "jersey": "4",
+      "officialName": "Vignesh Puthur",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "2e78f685": {
+      "photo": "/brand/players/2e78f685.webp",
+      "jersey": "18",
+      "officialName": "Kuldeep Sen",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "3ff033bb": {
+      "photo": "/brand/players/3ff033bb.png",
+      "jersey": "7",
+      "officialName": "Dasun Shanaka",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "133bbd61": {
+      "photo": "/brand/players/133bbd61.webp",
+      "jersey": "16",
+      "officialName": "Brijesh Sharma",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "ce820073": {
+      "photo": "/brand/players/ce820073.webp",
+      "jersey": "20",
+      "officialName": "Sandeep Sharma",
+      "teamId": "rajasthan-royals",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "548516a6": {
+      "photo": "/brand/players/548516a6.webp",
+      "jersey": "88",
+      "officialName": "Ravi Singh",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "470f446b": {
+      "photo": "/brand/players/470f446b.webp",
+      "jersey": "12",
+      "officialName": "Vaibhav Sooryavanshi",
+      "teamId": "rajasthan-royals",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad"
+    },
+    "b5797845": {
+      "photo": "/brand/players/b5797845.webp",
+      "jersey": "18",
+      "officialName": "Priyansh Arya",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "8f6dd463": {
+      "photo": "/brand/players/8f6dd463.webp",
+      "jersey": "9",
+      "officialName": "Azmatullah Omarzai",
+      "teamId": "punjab-kings",
+      "role": "allrounder",
+      "country": "Afghanistan",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "3b53243a": {
+      "photo": "/brand/players/3b53243a.webp",
+      "jersey": "15",
+      "officialName": "Xavier Bartlett",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "c05edf8e": {
+      "photo": "/brand/players/c05edf8e.webp",
+      "jersey": "13",
+      "officialName": "Harpreet Brar",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "fe366f34": {
+      "photo": "/brand/players/fe366f34.webp",
+      "jersey": "9",
+      "officialName": "Cooper Connolly",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "ed5a5510": {
+      "photo": "/brand/players/ed5a5510.webp",
+      "jersey": "25",
+      "officialName": "Praveen Dubey",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "e1b9f3a9": {
+      "photo": "/brand/players/e1b9f3a9.webp",
+      "jersey": "27",
+      "officialName": "Ben Dwarshuis",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "2f9d0389": {
+      "photo": "/brand/players/2f9d0389.webp",
+      "jersey": "69",
+      "officialName": "Lockie Ferguson",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "85ec8e33": {
+      "photo": "/brand/players/85ec8e33.webp",
+      "jersey": "96",
+      "officialName": "Shreyas Iyer",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "81c36ee9": {
+      "photo": "/brand/players/81c36ee9.webp",
+      "jersey": "70",
+      "officialName": "Marco Jansen",
+      "teamId": "punjab-kings",
+      "role": "allrounder",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "d621b427": {
+      "photo": "/brand/players/d621b427.webp",
+      "jersey": "97",
+      "officialName": "Musheer Khan",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "auc-vishal-nishad": {
+      "photo": "/brand/players/auc-vishal-nishad.webp",
+      "jersey": "30",
+      "officialName": "Vishal Nishad",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "f2c936d7": {
+      "photo": "/brand/players/f2c936d7.webp",
+      "jersey": "16",
+      "officialName": "Mitch Owen",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "970ddd24": {
+      "photo": "/brand/players/970ddd24.webp",
+      "jersey": "5",
+      "officialName": "Suryansh Shedge",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "244048f6": {
+      "photo": "/brand/players/244048f6.webp",
+      "jersey": "2",
+      "officialName": "Arshdeep Singh",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "9418198b": {
+      "photo": "/brand/players/9418198b.webp",
+      "jersey": "84",
+      "officialName": "Prabhsimran Singh",
+      "teamId": "punjab-kings",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "26989d80": {
+      "photo": "/brand/players/26989d80.webp",
+      "jersey": "27",
+      "officialName": "Shashank Singh",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "d9273ee7": {
+      "photo": "/brand/players/d9273ee7.webp",
+      "jersey": "17",
+      "officialName": "Marcus Stoinis",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "4b31f3a3": {
+      "photo": "/brand/players/4b31f3a3.webp",
+      "jersey": "28",
+      "officialName": "Yash Thakur",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "0494fa6e": {
+      "photo": "/brand/players/0494fa6e.webp",
+      "jersey": "4",
+      "officialName": "Vishnu Vinod",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "54e52590": {
+      "photo": "/brand/players/54e52590.webp",
+      "jersey": "31",
+      "officialName": "Vijaykumar Vyshak",
+      "teamId": "punjab-kings",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "d1a60072": {
+      "photo": "/brand/players/d1a60072.webp",
+      "jersey": "19",
+      "officialName": "Nehal Wadhera",
+      "teamId": "punjab-kings",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/punjab-kings/squad"
+    },
+    "25f7b7d6": {
+      "photo": "/brand/players/25f7b7d6.webp",
+      "jersey": "38",
+      "officialName": "Tom Banton",
+      "teamId": "gujarat-titans",
+      "role": "batsman",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "99b75528": {
+      "photo": "/brand/players/99b75528.webp",
+      "jersey": "63",
+      "officialName": "Jos Buttler",
+      "teamId": "gujarat-titans",
+      "role": "wicketkeeper",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "b4b99816": {
+      "photo": "/brand/players/b4b99816.webp",
+      "jersey": "7",
+      "officialName": "Shubman Gill",
+      "teamId": "gujarat-titans",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "0f721006": {
+      "photo": "/brand/players/0f721006.webp",
+      "jersey": "18",
+      "officialName": "Jason Holder",
+      "teamId": "gujarat-titans",
+      "role": "allrounder",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "fa2f1dde": {
+      "photo": "/brand/players/fa2f1dde.webp",
+      "jersey": "4",
+      "officialName": "Kulwant Khejroliya",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "85e0cf10": {
+      "photo": "/brand/players/85e0cf10.webp",
+      "jersey": "43",
+      "officialName": "Prasidh Krishna",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "57ca01b3": {
+      "photo": "/brand/players/57ca01b3.webp",
+      "jersey": "3",
+      "officialName": "Kumar Kushagra",
+      "teamId": "gujarat-titans",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "9a46c4e5": {
+      "photo": "/brand/players/9a46c4e5.webp",
+      "jersey": "6",
+      "officialName": "Glenn Phillips",
+      "teamId": "gujarat-titans",
+      "role": "batsman",
+      "country": "New Zealand",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "e62dd25d": {
+      "photo": "/brand/players/e62dd25d.webp",
+      "jersey": "25",
+      "officialName": "Kagiso Rabada",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "5f547c8b": {
+      "photo": "/brand/players/5f547c8b.webp",
+      "jersey": "19",
+      "officialName": "Rashid Khan",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "Afghanistan",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "c8f5f961": {
+      "photo": "/brand/players/c8f5f961.webp",
+      "jersey": "1",
+      "officialName": "Anuj Rawat",
+      "teamId": "gujarat-titans",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "c7a995d3": {
+      "photo": "/brand/players/c7a995d3.webp",
+      "jersey": "60",
+      "officialName": "Sai Kishore",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "d5130a30": {
+      "photo": "/brand/players/d5130a30.webp",
+      "jersey": "23",
+      "officialName": "Sai Sudharsan",
+      "teamId": "gujarat-titans",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "7dcb9bc9": {
+      "photo": "/brand/players/7dcb9bc9.webp",
+      "jersey": "35",
+      "officialName": "Shahrukh Khan",
+      "teamId": "gujarat-titans",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "50c09020": {
+      "photo": "/brand/players/50c09020.webp",
+      "jersey": null,
+      "officialName": "Ashok Sharma",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "5bb1a1c4": {
+      "photo": "/brand/players/5bb1a1c4.webp",
+      "jersey": "29",
+      "officialName": "Ishant Sharma",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "3cea23da": {
+      "photo": "/brand/players/3cea23da.webp",
+      "jersey": "27",
+      "officialName": "Nishant Sindhu",
+      "teamId": "gujarat-titans",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "2f49c897": {
+      "photo": "/brand/players/2f49c897.webp",
+      "jersey": "73",
+      "officialName": "Mohammed Siraj",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "025c4400": {
+      "photo": "/brand/players/025c4400.webp",
+      "jersey": "30",
+      "officialName": "Manav Suthar",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "39a2dfa8": {
+      "photo": "/brand/players/39a2dfa8.webp",
+      "jersey": "46",
+      "officialName": "Rahul Tewatia",
+      "teamId": "gujarat-titans",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "f19ccfad": {
+      "photo": "/brand/players/f19ccfad.webp",
+      "jersey": "5",
+      "officialName": "Washington Sundar",
+      "teamId": "gujarat-titans",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "65b6943c": {
+      "photo": "/brand/players/65b6943c.webp",
+      "jersey": "77",
+      "officialName": "Luke Wood",
+      "teamId": "gujarat-titans",
+      "role": "bowler",
+      "country": "England",
+      "source": "https://www.iplt20.com/teams/gujarat-titans/squad"
+    },
+    "872b03f7": {
+      "photo": "/brand/players/872b03f7.webp",
+      "jersey": "3",
+      "officialName": "Ayush Badoni",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "35f173a0": {
+      "photo": "/brand/players/35f173a0.webp",
+      "jersey": "18",
+      "officialName": "Matthew Breetzke",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "1c84109e": {
+      "photo": "/brand/players/1c84109e.webp",
+      "jersey": null,
+      "officialName": "Mukul Choudhary",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "a97c8ec2": {
+      "photo": "/brand/players/a97c8ec2.webp",
+      "jersey": "49",
+      "officialName": "Wanindu Hasaranga",
+      "teamId": "lucknow-super-giants",
+      "role": "allrounder",
+      "country": "Sri Lanka",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "989889ff": {
+      "photo": "/brand/players/989889ff.webp",
+      "jersey": "95",
+      "officialName": "Josh Inglis",
+      "teamId": "lucknow-super-giants",
+      "role": "wicketkeeper",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "eef2536f": {
+      "photo": "/brand/players/eef2536f.webp",
+      "jersey": "6",
+      "officialName": "Avesh Khan",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "2d140b79": {
+      "photo": "/brand/players/2d140b79.webp",
+      "jersey": "33",
+      "officialName": "Arshin Kulkarni",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "e5437608": {
+      "photo": "/brand/players/e5437608.webp",
+      "jersey": null,
+      "officialName": "George Linde",
+      "teamId": "lucknow-super-giants",
+      "role": "allrounder",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "6a26221c": {
+      "photo": "/brand/players/6a26221c.webp",
+      "jersey": "94",
+      "officialName": "Aiden Markram",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "3d8feaf8": {
+      "photo": "/brand/players/3d8feaf8.webp",
+      "jersey": "8",
+      "officialName": "Mitch Marsh",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "Australia",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "c33d8116": {
+      "photo": "/brand/players/c33d8116.webp",
+      "jersey": "23",
+      "officialName": "Mohsin Khan",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "acdc62f5": {
+      "photo": "/brand/players/acdc62f5.webp",
+      "jersey": "20",
+      "officialName": "Anrich Nortje",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "South Africa",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "919a3be2": {
+      "photo": "/brand/players/919a3be2.webp",
+      "jersey": "17",
+      "officialName": "Rishabh Pant",
+      "teamId": "lucknow-super-giants",
+      "role": "wicketkeeper",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "3241e3fd": {
+      "photo": "/brand/players/3241e3fd.webp",
+      "jersey": "29",
+      "officialName": "Nicholas Pooran",
+      "teamId": "lucknow-super-giants",
+      "role": "wicketkeeper",
+      "country": "West Indies",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "d8d67045": {
+      "photo": "/brand/players/d8d67045.webp",
+      "jersey": "45",
+      "officialName": "Akshat Raghuwanshi",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "13fc5c6d": {
+      "photo": "/brand/players/13fc5c6d.webp",
+      "jersey": "74",
+      "officialName": "Digvesh Singh Rathi",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "8e514b4c": {
+      "photo": "/brand/players/8e514b4c.webp",
+      "jersey": "1",
+      "officialName": "Abdul Samad",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "f9e6e7ef": {
+      "photo": "/brand/players/f9e6e7ef.webp",
+      "jersey": "21",
+      "officialName": "Shahbaz Ahmed",
+      "teamId": "lucknow-super-giants",
+      "role": "allrounder",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "8cf9814c": {
+      "photo": "/brand/players/8cf9814c.webp",
+      "jersey": "11",
+      "officialName": "Mohammed Shami",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "cf0ccafa": {
+      "photo": "/brand/players/cf0ccafa.webp",
+      "jersey": "30",
+      "officialName": "Manimaran Siddharth",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "b483905d": {
+      "photo": "/brand/players/b483905d.webp",
+      "jersey": "72",
+      "officialName": "Akash Singh",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "ebcfef83": {
+      "photo": "/brand/players/ebcfef83.webp",
+      "jersey": "69",
+      "officialName": "Himmat Singh",
+      "teamId": "lucknow-super-giants",
+      "role": "batsman",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "44aac2f0": {
+      "photo": "/brand/players/44aac2f0.webp",
+      "jersey": "24",
+      "officialName": "Arjun Tendulkar",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "auc-naman-tiwari": {
+      "photo": "/brand/players/auc-naman-tiwari.webp",
+      "jersey": "36",
+      "officialName": "Naman Tiwari",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "b1ad996b": {
+      "photo": "/brand/players/b1ad996b.webp",
+      "jersey": "44",
+      "officialName": "Mayank Yadav",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    },
+    "80b2fb19": {
+      "photo": "/brand/players/80b2fb19.webp",
+      "jersey": "25",
+      "officialName": "Prince Yadav",
+      "teamId": "lucknow-super-giants",
+      "role": "bowler",
+      "country": "India",
+      "source": "https://www.iplt20.com/teams/lucknow-super-giants/squad"
+    }
+  },
+  "unmatched": [
+    {
+      "team": "chennai-super-kings",
+      "name": "Dian Forrester",
+      "jersey": "14"
+    },
+    {
+      "team": "chennai-super-kings",
+      "name": "Macneil Noronha",
+      "jersey": "27"
+    },
+    {
+      "team": "mumbai-indians",
+      "name": "Ruchit Ahir",
+      "jersey": ""
+    },
+    {
+      "team": "kolkata-knight-riders",
+      "name": "Luvnith Sisodia",
+      "jersey": "73"
+    },
+    {
+      "team": "sunrisers-hyderabad",
+      "name": "RS Ambrish",
+      "jersey": ""
+    },
+    {
+      "team": "sunrisers-hyderabad",
+      "name": "Brydon Carse",
+      "jersey": "92"
+    },
+    {
+      "team": "delhi-capitals",
+      "name": "Rehan Ahmed",
+      "jersey": ""
+    },
+    {
+      "team": "rajasthan-royals",
+      "name": "Aman Rao",
+      "jersey": ""
+    },
+    {
+      "team": "punjab-kings",
+      "name": "Pyla Avinash",
+      "jersey": ""
+    },
+    {
+      "team": "punjab-kings",
+      "name": "Harnoor Singh",
+      "jersey": "12"
+    },
+    {
+      "team": "gujarat-titans",
+      "name": "Connor Esterhuizen",
+      "jersey": ""
+    },
+    {
+      "team": "gujarat-titans",
+      "name": "Yarra Prithviraj",
+      "jersey": "8"
+    }
+  ]
+}

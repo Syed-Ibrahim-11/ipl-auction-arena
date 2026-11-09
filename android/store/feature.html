@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1024px; height: 500px; overflow: hidden; }
+  body {
+    background:
+      radial-gradient(760px 420px at 78% 18%, rgba(255,122,26,.22), transparent 62%),
+      radial-gradient(620px 380px at 12% 92%, rgba(46,144,255,.12), transparent 60%),
+      repeating-linear-gradient(90deg, transparent 0 84px, rgba(255,255,255,.05) 84px 85px),
+      #070b12;
+    color: #f2f6fb;
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 0 56px;
+  }
+  .left { flex: 1; }
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .brand img { width: 58px; height: 58px; border-radius: 14px; }
+  .brand .name {
+    font-size: 13px; font-weight: 700; letter-spacing: .38em;
+    text-transform: uppercase; color: #9aa8ba; line-height: 1.5;
+  }
+  .brand .name b { display: block; color: #fff; font-size: 19px; letter-spacing: .16em; }
+  h1 {
+    margin-top: 26px;
+    font-size: 62px;
+    line-height: .94;
+    font-weight: 800;
+    letter-spacing: -.015em;
+    text-transform: uppercase;
+  }
+  h1 span { display: block; color: #ff7a1a; }
+  .tag { margin-top: 18px; font-size: 16px; color: #a7b4c6; letter-spacing: .01em; }
+  .tag b { color: #e8eef7; font-weight: 600; }
+  .right { width: 336px; }
+  .card {
+    border-radius: 22px;
+    padding: 22px 22px 20px;
+    background: linear-gradient(160deg, rgba(20,30,48,.96), rgba(10,16,28,.96));
+    border: 1px solid rgba(255,255,255,.1);
+    box-shadow: 0 26px 70px rgba(0,0,0,.55);
+  }
+  .card .row { display: flex; align-items: center; justify-content: space-between; }
+  .pill {
+    font-size: 11px; font-weight: 800; letter-spacing: .16em; text-transform: uppercase;
+    color: #0f0b06; background: #ff7a1a; padding: 6px 12px; border-radius: 999px;
+  }
+  .lot { font-size: 10px; letter-spacing: .26em; text-transform: uppercase; color: #7f8da1; }
+  .pname { margin-top: 20px; font-size: 27px; font-weight: 800; text-transform: uppercase; letter-spacing: .01em; }
+  .prole { margin-top: 6px; font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: #8fa0b6; }
+  .divider { height: 1px; background: rgba(255,255,255,.09); margin: 18px 0; }
+  .price { display: flex; align-items: baseline; justify-content: space-between; }
+  .price small { font-size: 10px; letter-spacing: .28em; text-transform: uppercase; color: #7f8da1; }
+  .price b { font-size: 34px; font-weight: 800; color: #4ade80; }
+  .foot { margin-top: 18px; display: flex; gap: 8px; }
+  .chip {
+    font-size: 10px; letter-spacing: .12em; text-transform: uppercase;
+    color: #b9c6d6; border: 1px solid rgba(255,255,255,.14);
+    padding: 6px 10px; border-radius: 999px;
+  }
+</style>
+</head>
+<body>
+  <div class="left">
+    <div class="brand">
+      <img src="icon-512.png" alt="">
+      <div class="name">IPL Auction<b>Arena</b></div>
+    </div>
+    <h1>Build your<span>ultimate squad</span></h1>
+    <p class="tag"><b>263 players · 10 franchises · full season sim</b><br>Live auction room, real IPL evidence, one purse to spend.</p>
+  </div>
+  <div class="right">
+    <div class="card">
+      <div class="row"><span class="pill">Sold</span><span class="lot">Lot 042 · 2026</span></div>
+      <div class="pname">Cameron Green</div>
+      <div class="prole">All-rounder · KKR</div>
+      <div class="divider"></div>
+      <div class="price"><small>Winning bid</small><b>₹25.2 Cr</b></div>
+      <div class="foot"><span class="chip">10 managers</span><span class="chip">Live bids</span><span class="chip">RTM</span></div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "name": "ipl-auction-arena",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "import-data": "tsx scripts/import-data.ts",
+    "import:official-2026": "tsx scripts/import/official-2026.ts",
+    "recompute-ratings": "tsx scripts/recompute-ratings.ts",
+    "assets:brand": "node scripts/fetch-brand-assets.mjs",
+    "test": "node --import tsx --test tests/*.test.ts"
+  },
+  "dependencies": {
+    "adm-zip": "^0.6.1",
+    "better-sqlite3": "^13.0.3",
+    "lucide-react": "^1.61.0",
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/adm-zip": "^0.5.8",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  }
+}
